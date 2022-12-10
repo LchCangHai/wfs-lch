@@ -1,4 +1,4 @@
-new TypeIt("#lywry", {
+new TypeIt("#wfslch", {
         loop: true,
         cursorSpeed: 1000,
         speed: 100

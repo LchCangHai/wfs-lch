@@ -234,21 +234,21 @@ img {
 }
 
 /* 两只WRY一样的猪 */
-.wryIsPig .pig1,
+.lovewfs .pig1,
 .pig2 {
     position: fixed;
     z-index: 99;
     width: 120px;
 }
 
-.wryIsPig .pig1 {
+.lovewfs .pig1 {
     right: -1px;
     bottom: 0;
     transform: rotate(-25deg);
     animation: wryPigRun1 2s infinite;
 }
 
-.wryIsPig .pig2 {
+.lovewfs .pig2 {
     left: -10px;
     bottom: 0;
     /* transform: scaleX(-1) rotate(-90deg); */
@@ -400,12 +400,12 @@ img {
         height: 560px;
     }
 
-    .wryIsPig .pig1,
+    .lovewfs .pig1,
     .pig2 {
         width: 130px;
     }
 
-    .wryIsPig .pig2 {
+    .lovewfs .pig2 {
         left: -25px;
     }
 }
@@ -504,12 +504,12 @@ img {
         height: 560px;
     }
 
-    .wryIsPig .pig1,
+    .lovewfs .pig1,
     .pig2 {
         width: 80px;
     }
 
-    .wryIsPig .pig2 {
+    .lovewfs .pig2 {
         left: -15px;
     }
 }
